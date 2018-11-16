@@ -299,8 +299,9 @@
       "Splash_Screen":
       {
         "is_override" : false,
-        "registration_detail": "Pocket IPTV® 2018",
-        "version_detail": "version : 4.0.0"
+        "registration_detail": "",
+        "registration_detail1": "Pocket IPTV® 2018",
+        "version_detail": "version : 4.0"
       },
 
       "Live_Support":
