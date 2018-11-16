@@ -288,6 +288,21 @@
         "official_website": "https://www.google.com/"
       },
 
+      "Privacy_Policy":
+      {
+        "is_override" : false,
+        "is_privacy_policy" : false,
+        "is_system_browser": false,
+        "privacy_policy": "https://www.pocketiptv.com/privacypolicy"
+      },
+
+      "Splash_Screen":
+      {
+        "is_override" : false,
+        "registration_detail": "Pocket IPTV® 2018",
+        "version_detail": "version : 4.0.0"
+      },
+
       "Live_Support":
       {
         "is_override" : false,
