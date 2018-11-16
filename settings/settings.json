@@ -239,6 +239,12 @@
         "disclaimer_title": "Disclaimer",
         "disclaimer_message": "Pocket IPTV doesn't contain any built-in channels. you need to have playlist with TV channels in order to this app. it just IPTV player which manage all channels and playlist in well manner."
       },
+    
+      "Playlist_Detail":
+      {
+        "is_override" : false,
+        "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels"
+      },
 
       "About_App":
       {
