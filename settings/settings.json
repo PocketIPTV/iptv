@@ -245,7 +245,7 @@
         "is_override" : false,
         "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
-        "playlist_web_search": ""
+        "playlist_web_search": "https://www.google.com"
       },
 
       "About_App":
@@ -284,8 +284,9 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.pocketiptv",
-        "share_message_iptv": "Share iptv url : "
+        "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.pocketiptv",
+        "share_message_iptv": "Share iptv url : ",
+        "share_message_link": "Share link url : "
       },
 
       "Official_Website":
