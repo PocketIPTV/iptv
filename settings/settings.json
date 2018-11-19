@@ -245,7 +245,7 @@
         "is_override" : false,
         "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
-        "playlist_web_search": "https://www.google.com"
+        "playlist_web_search": ""
       },
 
       "About_App":
