@@ -268,7 +268,7 @@
         "is_override" : false,
         "is_rate_app" : false,
         "package_id" : "com.android.chrome",
-        "rate_app_url" : "https://www.google.com",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.pocketiptv",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -276,7 +276,7 @@
       {
         "is_override" : false,
         "is_more_app" : false,
-        "developer_id" : "Pocket+IPTV",
+        "developer_id" : "Pocket+IPTV+™",
         "more_app_url" : "https://play.google.com/store/apps/developer?id=Pocket+IPTV+%E2%84%A2"
       },
 
@@ -319,7 +319,7 @@
         "is_live_support" : false,
         "fb_messenger_id": "822625707789265",
         "is_system_browser": false,
-        "live_support_url": "https://www.google.com/"
+        "live_support_url": "http://www.pocketiptv.com"
       },
 
       "Feedback_Support":
