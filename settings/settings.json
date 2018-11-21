@@ -30,7 +30,7 @@
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
           "interstitial_ad_unit_id": "353151288785830_353152322119060",
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -41,7 +41,7 @@
           "ads_app_id": "ca-app-pub-4304538148086056~5251983681",
           "banner_ad_unit_id": "ca-app-pub-4304538148086056/2406328491",
           "interstitial_ad_unit_id": "ca-app-pub-4304538148086056/4649348455",
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
@@ -111,7 +111,7 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 50
+          "visibility_percentage": 0
         }
       },
 
