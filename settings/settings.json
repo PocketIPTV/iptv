@@ -30,7 +30,7 @@
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
           "interstitial_ad_unit_id": "353151288785830_353152322119060",
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
