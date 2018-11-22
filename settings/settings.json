@@ -25,7 +25,7 @@
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
           "visibility_percentage": 0
         },
-        "default_ads": "startapp_ads",
+        "default_ads": "google_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
