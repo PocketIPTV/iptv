@@ -9,6 +9,7 @@
         "sub": {
           "sub_-1": {
             "id": -1,
+            "mode": "video",
             "name": "CRICBUZZ",
             "sub_name": "",
             "thumbnail_url": "https://static-s.aa-cdn.net/img/gp/20600003871859/LGAwt1hJ_6eK0Y4Vr9MgtGt6ne4tHhXHqUNf4x6OpuWVmF8xs1DxGJTh3PviEYB0wA=w300?v=1",
@@ -16,30 +17,35 @@
           },
           "sub_0": {
             "id": 0,
+            "mode": "video",
             "name": "CRICINFO ESPN",
             "sub_name": "",
             "thumbnail_url": "https://pbs.twimg.com/profile_images/888015358958940165/SmaHw6Rj_400x400.jpg",
             "website_url": "http://www.espncricinfo.com/ci/engine/match/index.html?view=live"
           },
           "sub_1": {
+            "mode": "video",
             "name": "STAR SPORTS 1 HD HINDI",
             "sub_name": "",
             "swift_id": 355,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_2": {
+            "mode": "video",
             "name": "STAR SPORTS SELECT 1",
             "sub_name": "",
             "swift_id": 351,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_3": {
+            "mode": "video",
             "name": "STAR SPORTS SELECT 2",
             "sub_name": "",
             "swift_id": 352,
             "thumbnail_url": "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
           },
           "sub_4": {
+            "mode": "video",
             "name": "STAR SPORTS HD 1",
             "sub_name": "",
             "swift_id": 353,
@@ -47,6 +53,7 @@
           },
           "sub_5": {
             "id": 5,
+            "mode": "video",
             "name": "STAR SPORTS HD 2",
             "sub_name": "",
             "swift_id": 354,
@@ -54,6 +61,7 @@
           },
           "sub_6": {
             "id": 6,
+            "mode": "video",
             "name": "STAR SPORTS 1",
             "sub_name": "",
             "swift_id": 357,
@@ -62,6 +70,7 @@
           },
           "sub_7": {
             "id": 7,
+            "mode": "video",
             "name": "STAR SPORTS 2",
             "sub_name": "",
             "swift_id": 358,
@@ -70,6 +79,7 @@
           },
           "sub_8": {
             "id": 8,
+            "mode": "video",
             "name": "STAR SPORTS 3",
             "sub_name": "",
             "swift_id": 359,
@@ -77,6 +87,7 @@
           },
           "sub_9": {
             "id": 9,
+            "mode": "video",
             "name": "Willow",
             "sub_name": "",
             "swift_id": 364,
@@ -92,6 +103,7 @@
         "sub": {
           "sub_1": {
             "id": 1,
+            "mode": "video",
             "name": "WWE Network",
             "sub_name": "",
             "swift_id": 639,
@@ -99,6 +111,7 @@
           },
           "sub_10": {
             "id": 10,
+            "mode": "video",
             "name": "Arena Sports 2",
             "sub_name": "",
             "swift_id": 7432,
@@ -106,6 +119,7 @@
           },
           "sub_100": {
             "id": 100,
+            "mode": "video",
             "name": "Sport Club 3",
             "sub_name": "",
             "swift_id": 7910,
@@ -113,6 +127,7 @@
           },
           "sub_101": {
             "id": 101,
+            "mode": "video",
             "name": "Sportnet 360",
             "sub_name": "",
             "swift_id": 7916,
@@ -120,6 +135,7 @@
           },
           "sub_102": {
             "id": 102,
+            "mode": "video",
             "name": "Sportnet One",
             "sub_name": "",
             "swift_id": 7915,
@@ -127,6 +143,7 @@
           },
           "sub_103": {
             "id": 103,
+            "mode": "video",
             "name": "Sportnet Ontario",
             "sub_name": "",
             "swift_id": 7914,
@@ -134,6 +151,7 @@
           },
           "sub_104": {
             "id": 104,
+            "mode": "video",
             "name": "Sportnet World",
             "sub_name": "",
             "swift_id": 7912,
@@ -141,6 +159,7 @@
           },
           "sub_105": {
             "id": 105,
+            "mode": "video",
             "name": "Sports TV 1",
             "sub_name": "",
             "swift_id": 7688,
@@ -148,6 +167,7 @@
           },
           "sub_106": {
             "id": 106,
+            "mode": "video",
             "name": "Sports TV 2",
             "sub_name": "",
             "swift_id": 7689,
@@ -155,6 +175,7 @@
           },
           "sub_107": {
             "id": 107,
+            "mode": "video",
             "name": "Sports TV 3",
             "sub_name": "",
             "swift_id": 7690,
@@ -162,6 +183,7 @@
           },
           "sub_108": {
             "id": 108,
+            "mode": "video",
             "name": "Sports TV 4",
             "sub_name": "",
             "swift_id": 7691,
@@ -169,6 +191,7 @@
           },
           "sub_109": {
             "id": 109,
+            "mode": "video",
             "name": "Sports TV 5",
             "sub_name": "",
             "swift_id": 7692,
@@ -176,6 +199,7 @@
           },
           "sub_11": {
             "id": 11,
+            "mode": "video",
             "name": "Arena Sports 3",
             "sub_name": "",
             "swift_id": 7433,
@@ -183,6 +207,7 @@
           },
           "sub_110": {
             "id": 110,
+            "mode": "video",
             "name": "Star Sports 1",
             "sub_name": "",
             "swift_id": 357,
@@ -190,6 +215,7 @@
           },
           "sub_111": {
             "id": 111,
+            "mode": "video",
             "name": "Star Sports 2",
             "sub_name": "",
             "swift_id": 358,
@@ -197,6 +223,7 @@
           },
           "sub_112": {
             "id": 112,
+            "mode": "video",
             "name": "Star Sports 3",
             "sub_name": "",
             "swift_id": 359,
@@ -204,6 +231,7 @@
           },
           "sub_113": {
             "id": 113,
+            "mode": "video",
             "name": "Star Sports First",
             "sub_name": "",
             "swift_id": 350,
@@ -211,6 +239,7 @@
           },
           "sub_114": {
             "id": 114,
+            "mode": "video",
             "name": "Star Sports 1 HD Hindi",
             "sub_name": "",
             "swift_id": 355,
@@ -218,6 +247,7 @@
           },
           "sub_115": {
             "id": 115,
+            "mode": "video",
             "name": "Star Sports 2 HD Hindi",
             "sub_name": "",
             "swift_id": 354,
@@ -225,6 +255,7 @@
           },
           "sub_116": {
             "id": 116,
+            "mode": "video",
             "name": "Star Sports Select HD 1",
             "sub_name": "",
             "swift_id": 351,
@@ -233,6 +264,7 @@
           },
           "sub_117": {
             "id": 117,
+            "mode": "video",
             "name": "Star Sports Select HD 2",
             "sub_name": "",
             "swift_id": 352,
@@ -241,6 +273,7 @@
           },
           "sub_118": {
             "id": 118,
+            "mode": "video",
             "name": "Super Sports Albania 1 HD",
             "sub_name": "",
             "swift_id": 7949,
@@ -248,6 +281,7 @@
           },
           "sub_119": {
             "id": 119,
+            "mode": "video",
             "name": "Super Sports Albania 2 HD",
             "sub_name": "",
             "swift_id": 7950,
@@ -255,6 +289,7 @@
           },
           "sub_12": {
             "id": 12,
+            "mode": "video",
             "name": "Arena Sports 4",
             "sub_name": "",
             "swift_id": 7434,
@@ -262,6 +297,7 @@
           },
           "sub_120": {
             "id": 120,
+            "mode": "video",
             "name": "Super Sports Albania 3 HD",
             "sub_name": "",
             "swift_id": 7951,
@@ -269,6 +305,7 @@
           },
           "sub_121": {
             "id": 121,
+            "mode": "video",
             "name": "Super Sports Albania 4 HD",
             "sub_name": "",
             "swift_id": 7952,
@@ -276,6 +313,7 @@
           },
           "sub_122": {
             "id": 122,
+            "mode": "video",
             "name": "T10 Server 1 Sony ESPN",
             "sub_name": "",
             "swift_id": 381,
@@ -283,6 +321,7 @@
           },
           "sub_123": {
             "id": 123,
+            "mode": "video",
             "name": "T10 Server 2 SEE TV",
             "sub_name": "",
             "swift_id": 340,
@@ -290,6 +329,7 @@
           },
           "sub_124": {
             "id": 124,
+            "mode": "video",
             "name": "Sony TEN1 HD",
             "sub_name": "",
             "swift_id": 343,
@@ -298,6 +338,7 @@
           },
           "sub_125": {
             "id": 125,
+            "mode": "video",
             "name": "Sony TEN2 HD",
             "sub_name": "",
             "swift_id": 344,
@@ -306,6 +347,7 @@
           },
           "sub_126": {
             "id": 126,
+            "mode": "video",
             "name": "Sony TEN3 HD",
             "sub_name": "",
             "swift_id": 345,
@@ -314,6 +356,7 @@
           },
           "sub_127": {
             "id": 127,
+            "mode": "video",
             "name": "Sony TEN GOLF HD",
             "sub_name": "",
             "swift_id": 349,
@@ -321,6 +364,7 @@
           },
           "sub_128": {
             "id": 128,
+            "mode": "video",
             "name": "Sony TEN Six HD",
             "sub_name": "",
             "swift_id": 361,
@@ -329,6 +373,7 @@
           },
           "sub_129": {
             "id": 129,
+            "mode": "video",
             "name": "TEN Sports PAKISTAN",
             "sub_name": "",
             "swift_id": 340,
@@ -336,6 +381,7 @@
           },
           "sub_13": {
             "id": 13,
+            "mode": "video",
             "name": "Arena Sports 5",
             "sub_name": "",
             "swift_id": 7435,
@@ -343,6 +389,7 @@
           },
           "sub_130": {
             "id": 130,
+            "mode": "video",
             "name": "TSN Sports 1",
             "sub_name": "",
             "swift_id": 7456,
@@ -350,6 +397,7 @@
           },
           "sub_131": {
             "id": 131,
+            "mode": "video",
             "name": "TSN Sports 2",
             "sub_name": "",
             "swift_id": 7457,
@@ -357,6 +405,7 @@
           },
           "sub_132": {
             "id": 132,
+            "mode": "video",
             "name": "TSN Sports 3",
             "sub_name": "",
             "swift_id": 7458,
@@ -364,6 +413,7 @@
           },
           "sub_133": {
             "id": 133,
+            "mode": "video",
             "name": "TSN Sports 4",
             "sub_name": "",
             "swift_id": 7459,
@@ -371,6 +421,7 @@
           },
           "sub_134": {
             "id": 134,
+            "mode": "video",
             "name": "TSN Sports 5",
             "sub_name": "",
             "swift_id": 7460,
@@ -378,6 +429,7 @@
           },
           "sub_135": {
             "id": 135,
+            "mode": "video",
             "name": "Viasat Fotboll",
             "sub_name": "",
             "swift_id": 7493,
@@ -385,6 +437,7 @@
           },
           "sub_136": {
             "id": 136,
+            "mode": "video",
             "name": "Willow",
             "sub_name": "",
             "swift_id": 364,
@@ -392,6 +445,7 @@
           },
           "sub_137": {
             "id": 137,
+            "mode": "video",
             "name": "Ziggo Select Sport",
             "sub_name": "",
             "swift_id": 78446,
@@ -399,6 +453,7 @@
           },
           "sub_14": {
             "id": 14,
+            "mode": "video",
             "name": "At The Races",
             "sub_name": "",
             "swift_id": 393,
@@ -406,6 +461,7 @@
           },
           "sub_15": {
             "id": 15,
+            "mode": "video",
             "name": "beIN News",
             "sub_name": "",
             "swift_id": 7395,
@@ -413,6 +469,7 @@
           },
           "sub_16": {
             "id": 16,
+            "mode": "video",
             "name": "beIN News 1",
             "sub_name": "",
             "swift_id": 7400,
@@ -420,6 +477,7 @@
           },
           "sub_17": {
             "id": 17,
+            "mode": "video",
             "name": "beIN News 2",
             "sub_name": "",
             "swift_id": 7401,
@@ -427,6 +485,7 @@
           },
           "sub_18": {
             "id": 18,
+            "mode": "video",
             "name": "beIN News 3",
             "sub_name": "",
             "swift_id": 7402,
@@ -434,6 +493,7 @@
           },
           "sub_19": {
             "id": 19,
+            "mode": "video",
             "name": "beIN News 4",
             "sub_name": "",
             "swift_id": 7403,
@@ -441,6 +501,7 @@
           },
           "sub_2": {
             "id": 2,
+            "mode": "video",
             "name": "AD Sports 1",
             "sub_name": "",
             "swift_id": 7462,
@@ -448,6 +509,7 @@
           },
           "sub_20": {
             "id": 20,
+            "mode": "video",
             "name": "beIN News 5",
             "sub_name": "",
             "swift_id": 7404,
@@ -455,6 +517,7 @@
           },
           "sub_21": {
             "id": 21,
+            "mode": "video",
             "name": "beIN News 6",
             "sub_name": "",
             "swift_id": 7405,
@@ -462,6 +525,7 @@
           },
           "sub_22": {
             "id": 22,
+            "mode": "video",
             "name": "beIN News 7",
             "sub_name": "",
             "swift_id": 7406,
@@ -469,6 +533,7 @@
           },
           "sub_23": {
             "id": 23,
+            "mode": "video",
             "name": "beIN News 8",
             "sub_name": "",
             "swift_id": 7407,
@@ -476,6 +541,7 @@
           },
           "sub_24": {
             "id": 24,
+            "mode": "video",
             "name": "beIN News 9",
             "sub_name": "",
             "swift_id": 7408,
@@ -483,6 +549,7 @@
           },
           "sub_25": {
             "id": 25,
+            "mode": "video",
             "name": "beIN News 10",
             "sub_name": "",
             "swift_id": 7409,
@@ -490,6 +557,7 @@
           },
           "sub_26": {
             "id": 26,
+            "mode": "video",
             "name": "beIN News 11",
             "sub_name": "",
             "swift_id": 7410,
@@ -497,6 +565,7 @@
           },
           "sub_27": {
             "id": 27,
+            "mode": "video",
             "name": "beIN News 12",
             "sub_name": "",
             "swift_id": 7411,
@@ -504,6 +573,7 @@
           },
           "sub_28": {
             "id": 28,
+            "mode": "video",
             "name": "beIN Sports USA",
             "sub_name": "",
             "swift_id": 7394,
@@ -511,6 +581,7 @@
           },
           "sub_29": {
             "id": 29,
+            "mode": "video",
             "name": "BOX Nation",
             "sub_name": "",
             "swift_id": 387,
@@ -518,6 +589,7 @@
           },
           "sub_3": {
             "id": 3,
+            "mode": "video",
             "name": "AD Sports 2",
             "sub_name": "",
             "swift_id": 7463,
@@ -525,6 +597,7 @@
           },
           "sub_30": {
             "id": 30,
+            "mode": "video",
             "name": "BT Sports 1",
             "sub_name": "",
             "swift_id": 376,
@@ -532,6 +605,7 @@
           },
           "sub_31": {
             "id": 31,
+            "mode": "video",
             "name": "BT Sports 2",
             "sub_name": "",
             "swift_id": 377,
@@ -539,6 +613,7 @@
           },
           "sub_32": {
             "id": 32,
+            "mode": "video",
             "name": "BT Sports 3",
             "sub_name": "",
             "swift_id": 378,
@@ -546,6 +621,7 @@
           },
           "sub_33": {
             "id": 33,
+            "mode": "video",
             "name": "Chelsea TV",
             "sub_name": "",
             "swift_id": 7413,
@@ -553,6 +629,7 @@
           },
           "sub_34": {
             "id": 34,
+            "mode": "video",
             "name": "Digi Sports 1",
             "sub_name": "",
             "swift_id": 78492,
@@ -560,6 +637,7 @@
           },
           "sub_35": {
             "id": 35,
+            "mode": "video",
             "name": "Digi Sports 2",
             "sub_name": "",
             "swift_id": 79248,
@@ -567,6 +645,7 @@
           },
           "sub_36": {
             "id": 36,
+            "mode": "video",
             "name": "Digi Sports 3",
             "sub_name": "",
             "swift_id": 78494,
@@ -574,6 +653,7 @@
           },
           "sub_37": {
             "id": 37,
+            "mode": "video",
             "name": "Digi Sports 4",
             "sub_name": "",
             "swift_id": 79250,
@@ -581,6 +661,7 @@
           },
           "sub_38": {
             "id": 38,
+            "mode": "video",
             "name": "D Sports",
             "sub_name": "",
             "swift_id": 78531,
@@ -588,6 +669,7 @@
           },
           "sub_39": {
             "id": 39,
+            "mode": "video",
             "name": "Dubai Sports",
             "sub_name": "",
             "swift_id": 6964,
@@ -595,6 +677,7 @@
           },
           "sub_40": {
             "id": 40,
+            "mode": "video",
             "name": "EIR Sport 1",
             "sub_name": "",
             "swift_id": 78447,
@@ -602,6 +685,7 @@
           },
           "sub_41": {
             "id": 41,
+            "mode": "video",
             "name": "EIR Sport 2",
             "sub_name": "",
             "swift_id": 78448,
@@ -609,6 +693,7 @@
           },
           "sub_42": {
             "id": 42,
+            "mode": "video",
             "name": "ESPN",
             "sub_name": "",
             "swift_id": 79011,
@@ -616,6 +701,7 @@
           },
           "sub_43": {
             "id": 43,
+            "mode": "video",
             "name": "Euro Sport 1",
             "sub_name": "",
             "swift_id": 384,
@@ -623,6 +709,7 @@
           },
           "sub_44": {
             "id": 44,
+            "mode": "video",
             "name": "Euro Sport 2",
             "sub_name": "",
             "swift_id": 385,
@@ -630,6 +717,7 @@
           },
           "sub_45": {
             "id": 45,
+            "mode": "video",
             "name": "Fight Box",
             "sub_name": "",
             "swift_id": 78496,
@@ -637,6 +725,7 @@
           },
           "sub_46": {
             "id": 46,
+            "mode": "video",
             "name": "Fox Sport 1 NL",
             "sub_name": "",
             "swift_id": 7438,
@@ -644,6 +733,7 @@
           },
           "sub_47": {
             "id": 47,
+            "mode": "video",
             "name": "Fox Sport 2 USA",
             "sub_name": "",
             "swift_id": 7437,
@@ -651,6 +741,7 @@
           },
           "sub_48": {
             "id": 48,
+            "mode": "video",
             "name": "Fox Sport 2 NL",
             "sub_name": "",
             "swift_id": 7439,
@@ -658,6 +749,7 @@
           },
           "sub_49": {
             "id": 49,
+            "mode": "video",
             "name": "Fox Sport 3 NL",
             "sub_name": "",
             "swift_id": 7440,
@@ -665,6 +757,7 @@
           },
           "sub_50": {
             "id": 50,
+            "mode": "video",
             "name": "Fox Sport 4 NL",
             "sub_name": "",
             "swift_id": 7441,
@@ -672,6 +765,7 @@
           },
           "sub_51": {
             "id": 51,
+            "mode": "video",
             "name": "Fox Sport 5 NL",
             "sub_name": "",
             "swift_id": 7442,
@@ -679,6 +773,7 @@
           },
           "sub_52": {
             "id": 52,
+            "mode": "video",
             "name": "Free Sports",
             "sub_name": "",
             "swift_id": 78908,
@@ -686,6 +781,7 @@
           },
           "sub_53": {
             "id": 53,
+            "mode": "video",
             "name": "GEO Super",
             "sub_name": "",
             "swift_id": 339,
@@ -693,6 +789,7 @@
           },
           "sub_54": {
             "id": 54,
+            "mode": "video",
             "name": "LFC TV",
             "sub_name": "",
             "swift_id": 7227,
@@ -700,6 +797,7 @@
           },
           "sub_55": {
             "id": 55,
+            "mode": "video",
             "name": "MBC Pro Sports 1",
             "sub_name": "",
             "swift_id": 7502,
@@ -707,6 +805,7 @@
           },
           "sub_56": {
             "id": 56,
+            "mode": "video",
             "name": "MBC Pro Sports 2",
             "sub_name": "",
             "swift_id": 7503,
@@ -714,6 +813,7 @@
           },
           "sub_57": {
             "id": 57,
+            "mode": "video",
             "name": "MBC Pro Sports 3",
             "sub_name": "",
             "swift_id": 7504,
@@ -721,6 +821,7 @@
           },
           "sub_58": {
             "id": 58,
+            "mode": "video",
             "name": "MBC Pro Sports 4",
             "sub_name": "",
             "swift_id": 7505,
@@ -728,6 +829,7 @@
           },
           "sub_59": {
             "id": 59,
+            "mode": "video",
             "name": "MUTV",
             "sub_name": "",
             "swift_id": 6979,
@@ -735,6 +837,7 @@
           },
           "sub_60": {
             "id": 60,
+            "mode": "video",
             "name": "NBA TV",
             "sub_name": "",
             "swift_id": 7497,
@@ -742,6 +845,7 @@
           },
           "sub_61": {
             "id": 61,
+            "mode": "video",
             "name": "NBC SN",
             "sub_name": "",
             "swift_id": 7500,
@@ -749,6 +853,7 @@
           },
           "sub_62": {
             "id": 62,
+            "mode": "video",
             "name": "NEO Prime",
             "sub_name": "",
             "swift_id": 391,
@@ -756,6 +861,7 @@
           },
           "sub_63": {
             "id": 63,
+            "mode": "video",
             "name": "NEO Sports",
             "sub_name": "",
             "swift_id": 390,
@@ -763,6 +869,7 @@
           },
           "sub_64": {
             "id": 64,
+            "mode": "video",
             "name": "NFL Network",
             "sub_name": "",
             "swift_id": 7501,
@@ -770,6 +877,7 @@
           },
           "sub_65": {
             "id": 65,
+            "mode": "video",
             "name": "OSN Cricket",
             "sub_name": "",
             "swift_id": 7560,
@@ -777,6 +885,7 @@
           },
           "sub_66": {
             "id": 66,
+            "mode": "video",
             "name": "OSN Sports 1",
             "sub_name": "",
             "swift_id": 7828,
@@ -784,6 +893,7 @@
           },
           "sub_67": {
             "id": 67,
+            "mode": "video",
             "name": "OSN Sports 2",
             "sub_name": "",
             "swift_id": 79101,
@@ -791,6 +901,7 @@
           },
           "sub_68": {
             "id": 68,
+            "mode": "video",
             "name": "OSN Sports 3",
             "sub_name": "",
             "swift_id": 79102,
@@ -798,6 +909,7 @@
           },
           "sub_69": {
             "id": 69,
+            "mode": "video",
             "name": "OSN Sports 4",
             "sub_name": "",
             "swift_id": 7831,
@@ -805,6 +917,7 @@
           },
           "sub_7": {
             "id": 7,
+            "mode": "video",
             "name": "Al Kass Sports 4",
             "sub_name": "",
             "swift_id": 7592,
@@ -812,6 +925,7 @@
           },
           "sub_70": {
             "id": 70,
+            "mode": "video",
             "name": "Premier Sports",
             "sub_name": "",
             "swift_id": 365,
@@ -819,6 +933,7 @@
           },
           "sub_71": {
             "id": 71,
+            "mode": "video",
             "name": "Racing UK",
             "sub_name": "",
             "swift_id": 392,
@@ -826,6 +941,7 @@
           },
           "sub_72": {
             "id": 72,
+            "mode": "video",
             "name": "Real Madrid TV",
             "sub_name": "",
             "swift_id": 7148,
@@ -833,6 +949,7 @@
           },
           "sub_73": {
             "id": 73,
+            "mode": "video",
             "name": "PTV Sports",
             "sub_name": "",
             "swift_id": 337,
@@ -840,6 +957,7 @@
           },
           "sub_75": {
             "id": 75,
+            "mode": "video",
             "name": "SFR Sport 1",
             "sub_name": "",
             "swift_id": 78532,
@@ -847,6 +965,7 @@
           },
           "sub_76": {
             "id": 76,
+            "mode": "video",
             "name": "SFR Sport 2",
             "sub_name": "",
             "swift_id": 78533,
@@ -854,6 +973,7 @@
           },
           "sub_77": {
             "id": 77,
+            "mode": "video",
             "name": "SFR Sport 3",
             "sub_name": "",
             "swift_id": 78534,
@@ -861,6 +981,7 @@
           },
           "sub_78": {
             "id": 78,
+            "mode": "video",
             "name": "Skynet HD",
             "sub_name": "",
             "swift_id": 7911,
@@ -868,6 +989,7 @@
           },
           "sub_79": {
             "id": 79,
+            "mode": "video",
             "name": "SKY Sports 1 DE",
             "sub_name": "",
             "swift_id": 78522,
@@ -875,6 +997,7 @@
           },
           "sub_80": {
             "id": 80,
+            "mode": "video",
             "name": "SKY Sports 2 DE",
             "sub_name": "",
             "swift_id": 78905,
@@ -882,6 +1005,7 @@
           },
           "sub_81": {
             "id": 81,
+            "mode": "video",
             "name": "SKY Sports News",
             "sub_name": "",
             "swift_id": 366,
@@ -889,6 +1013,7 @@
           },
           "sub_82": {
             "id": 82,
+            "mode": "video",
             "name": "SKY Sports 1 HD",
             "sub_name": "",
             "swift_id": 367,
@@ -896,6 +1021,7 @@
           },
           "sub_83": {
             "id": 83,
+            "mode": "video",
             "name": "SKY Sports 2 HD",
             "sub_name": "",
             "swift_id": 368,
@@ -903,6 +1029,7 @@
           },
           "sub_84": {
             "id": 84,
+            "mode": "video",
             "name": "SKY Sports 3 HD",
             "sub_name": "",
             "swift_id": 369,
@@ -910,6 +1037,7 @@
           },
           "sub_85": {
             "id": 85,
+            "mode": "video",
             "name": "SKY Sports 4 HD",
             "sub_name": "",
             "swift_id": 370,
@@ -917,6 +1045,7 @@
           },
           "sub_86": {
             "id": 86,
+            "mode": "video",
             "name": "SKY Sports 5 HD",
             "sub_name": "",
             "swift_id": 371,
@@ -924,6 +1053,7 @@
           },
           "sub_87": {
             "id": 87,
+            "mode": "video",
             "name": "SKY Sports 1 Italy",
             "sub_name": "",
             "swift_id": 7904,
@@ -931,6 +1061,7 @@
           },
           "sub_88": {
             "id": 88,
+            "mode": "video",
             "name": "SKY Sports Action",
             "sub_name": "",
             "swift_id": 369,
@@ -938,6 +1069,7 @@
           },
           "sub_89": {
             "id": 89,
+            "mode": "video",
             "name": "SKY Sports Arena",
             "sub_name": "",
             "swift_id": 372,
@@ -945,6 +1077,7 @@
           },
           "sub_9": {
             "id": 9,
+            "mode": "video",
             "name": "Arena Sports 1",
             "sub_name": "",
             "swift_id": 7431,
@@ -952,6 +1085,7 @@
           },
           "sub_90": {
             "id": 90,
+            "mode": "video",
             "name": "SKY Sports Cricket",
             "sub_name": "",
             "swift_id": 368,
@@ -959,6 +1093,7 @@
           },
           "sub_91": {
             "id": 91,
+            "mode": "video",
             "name": "SKY Sports F1",
             "sub_name": "",
             "swift_id": 374,
@@ -966,6 +1101,7 @@
           },
           "sub_92": {
             "id": 92,
+            "mode": "video",
             "name": "SKY Sports Footbol",
             "sub_name": "",
             "swift_id": 373,
@@ -973,6 +1109,7 @@
           },
           "sub_93": {
             "id": 93,
+            "mode": "video",
             "name": "SKY Sports Golf",
             "sub_name": "",
             "swift_id": 370,
@@ -980,6 +1117,7 @@
           },
           "sub_94": {
             "id": 94,
+            "mode": "video",
             "name": "SKY Sports Main Event",
             "sub_name": "",
             "swift_id": 367,
@@ -987,6 +1125,7 @@
           },
           "sub_95": {
             "id": 95,
+            "mode": "video",
             "name": "SKY Sports Mix",
             "sub_name": "",
             "swift_id": 375,
@@ -994,6 +1133,7 @@
           },
           "sub_96": {
             "id": 96,
+            "mode": "video",
             "name": "SKY Sports News",
             "sub_name": "",
             "swift_id": 379,
@@ -1001,6 +1141,7 @@
           },
           "sub_97": {
             "id": 97,
+            "mode": "video",
             "name": "Sony ESPN HD",
             "sub_name": "",
             "swift_id": 381,
@@ -1008,6 +1149,7 @@
           },
           "sub_98": {
             "id": 98,
+            "mode": "video",
             "name": "Sport Club 1",
             "sub_name": "",
             "swift_id": 7908,
@@ -1015,6 +1157,7 @@
           },
           "sub_99": {
             "id": 99,
+            "mode": "video",
             "name": "Sport Club 2",
             "sub_name": "",
             "swift_id": 7909,
