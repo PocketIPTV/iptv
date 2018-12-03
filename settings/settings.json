@@ -5,6 +5,7 @@
         "is_override" : false,
         "ads_delay": 0,
         "ads_on_cancel_delay": 0,
+        "ads_reload_count": 3,
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
           "is_ads": false,
@@ -26,6 +27,7 @@
           "visibility_percentage": 0
         },
         "default_ads": "google_ads",
+        "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
