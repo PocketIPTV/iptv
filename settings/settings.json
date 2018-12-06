@@ -333,7 +333,7 @@
         "is_feedback" : false,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv.care@gmail.com",
+        "email_id": "pocketiptv@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Pocket IPTV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Pocket IPTV",
 
@@ -347,7 +347,7 @@
         "is_channel_report" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv.care@gmail.com",
+        "email_id": "pocketiptv@gmail.com",
 
         "channel_report_title": "Channel Report"
       },
