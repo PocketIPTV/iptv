@@ -27,8 +27,8 @@
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
           "visibility_percentage": 0
         },
-        "default_ads": "google_ads",
-        "final_default_ads":"google_ads",
+        "default_ads": "facebook_ads",
+        "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
@@ -53,7 +53,7 @@
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-4304538148086056/2406328491",
           "rewarded_video_ad_unit_id": "ca-app-pub-4304538148086056/4649348455",
-          "visibility_percentage": 100
+          "visibility_percentage": 0
         },
         "custom_ads" :
         {
