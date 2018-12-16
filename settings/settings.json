@@ -10,6 +10,7 @@
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
+          "ads_clicks_per_day" : 1,
           "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -20,6 +21,7 @@
         "appnext_ads": {
           "banner_ad_unit_id": "957c9114-4c95-4259-bfdd-0ac4a6d8f4e1",
           "interstitial_ad_unit_id": "2aa93ef9-381a-4b15-945a-86d4eba9ff0c",
+          "ads_clicks_per_day" : 1,
           "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -34,6 +36,7 @@
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
           "interstitial_ad_unit_id": "353151288785830_353152322119060",
+          "ads_clicks_per_day" : 1,
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -47,6 +50,7 @@
           "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
           "interstitial_ad_unit_id": "ca-app-pub-4304538148086056/4649348455",
           "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
+          "ads_clicks_per_day" : 1,
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -112,6 +116,7 @@
         "is_stream_player_banner_ads": true,
         "startapp_ads": {
           "ads_app_id": "201571398",
+          "ads_clicks_per_day" : 1,
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -164,6 +169,8 @@
       "Supports_Availability":
       {
         "is_override" : false,
+        "is_app_player_support": true,
+        "is_android_player_support": true,
         "is_webview_player_support": true,
         "is_other_player_support":true,
         "is_inapp_other_player_support":true,
