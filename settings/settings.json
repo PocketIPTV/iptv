@@ -114,6 +114,16 @@
         "is_banner_ads": true,
         "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
+        "amazon_ads": {
+          "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
+          "ads_clicks_per_day" : 1,
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
+          "is_stream_player_banner_ads": true,
+          "is_initially_ads_container_visible":true,
+          "visibility_percentage": 0
+        },
         "startapp_ads": {
           "ads_app_id1": "201571398",
           "ads_app_id": "211764508",
