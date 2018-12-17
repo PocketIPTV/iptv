@@ -115,7 +115,8 @@
         "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
         "startapp_ads": {
-          "ads_app_id": "201571398",
+          "ads_app_id1": "201571398",
+          "ads_app_id": "211764508",
           "ads_clicks_per_day" : 1,
           "is_ads": true,
           "is_banner_ads": true,
