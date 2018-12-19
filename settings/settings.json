@@ -37,12 +37,12 @@
           "banner_ad_unit_id": "353151288785830_353151742119118",
           "interstitial_ad_unit_id": "353151288785830_353152322119060",
           "ads_clicks_per_day" : 1,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 100
+          "visibility_percentage": 0
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-4304538148086056~5251983681",
@@ -53,12 +53,12 @@
           "ads_clicks_per_day" : 1,
           "is_ads": true,
           "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-4304538148086056/2406328491",
           "rewarded_video_ad_unit_id": "ca-app-pub-4304538148086056/4649348455",
-          "visibility_percentage": 0
+          "visibility_percentage": 100
         },
         "custom_ads" :
         {
@@ -117,23 +117,23 @@
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_clicks_per_day" : 1,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 100
+          "visibility_percentage": 0
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
           "ads_app_id": "211764508",
           "ads_clicks_per_day" : 1,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
-          "visibility_percentage": 5
+          "visibility_percentage": 0
         }
       },
 
