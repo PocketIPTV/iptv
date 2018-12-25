@@ -142,7 +142,105 @@
           "visibility_percentage": 100
         }
       },
+"App_Guide_Data":
+      {
+        "is_override": false,
+        "guide_player_selection_menu":
+        {
+          "is_guide":true,
+          "guide_title":"Player Selection",
+          "guide_description":"You can choose your favorite player for play video."
+        },
+        "guide_search_action":
+        {
+          "is_guide":true,
+          "guide_title":"Search",
+          "guide_description":"you can search any channel very smartly\n\nyou can save your time to finding any channel."
+        },
+        "guide_navigation_drawer":
+        {
+          "is_guide":true,
+          "guide_title":"Main Menu",
+          "guide_description":"You can get Pocket IPTV support and features here."
+        },
+        "guide_add_playlist":
+        {
+          "is_guide":true,
+          "guide_title":"Add Playlist",
+          "guide_description":"This button use to add your playlist in 3 different different way."
+        },
+        "guide_add_playlist_file":
+        {
+          "is_guide":true,
+          "guide_title":"Add Playlist File",
+          "guide_description":"This button use to add playlist File (.RUTU, .JSON, .M3U, .M3U8, .TXT, .XSPF) \nIt will open file chooser."
+        },
+        "guide_add_playlist_url":
+        {
+          "is_guide":true,
+          "guide_title":"Add Playlist URL",
+          "guide_description":"This button use to add playlist URL which is getting from playlist provider on web."
+        },
+        "guide_add_playlist_qr_code": {
+          "is_guide": true,
+          "guide_title": "Add Playlist Through QR Code",
+          "guide_description": "By this you have to scan those QR code which provide from web or from application of other friends.\nHere you have to just scan QR code and playlist automatically load to the app."
+        },
+        "guide_add_playlist_web_search":
+        {
+          "is_guide":true,
+          "guide_title":"Search Play list",
+          "guide_description":"Here you can search playlist on web."
+        },
 
+
+        "guide_playlist_delete":
+        {
+          "is_guide":true,
+          "guide_title":"Delete Playlist Item",
+          "guide_description":"You can delete selected playlist items from here also undo it."
+        },
+        "guide_playlist_share":
+        {
+          "is_guide":true,
+          "guide_title":"Share Playlist Item",
+          "guide_description":"it is use to share Web Playlist Item to your friends you your friends also enjoy same playlist."
+        },
+        "guide_playlist_qr_code_viewer":
+        {
+          "is_guide":true,
+          "guide_title":"QR Code",
+          "guide_description":"it is use to share QR Code also other friend directly scan qr from your device by this feature."
+        },
+
+
+        "guide_current_iptv_adapter":
+        {
+          "is_guide":true,
+          "guide_title":"IPTV Playlist Item",
+          "guide_description":"Here you can switch playlist by simple clicking.\n\nIf you want to delete or share web iptv playlist then LONG PRESS on playlist item."
+        },
+        "guide_current_iptv_adapter_icon":
+        {
+          "is_guide":true,
+          "guide_title":"Sahre & Delete",
+          "guide_description":"You can share & delete playlist item by simple pressing on icon or long pressing on playlist item."
+        },
+
+
+        "guide_video_player_report_channel":
+        {
+          "is_guide":true,
+          "guide_title":"Report Channels",
+          "guide_description":"Report us about channel."
+        },
+        "guide_video_player_chromecast":
+        {
+          "is_guide":true,
+          "guide_title":"Casting Content",
+          "guide_description":"Touch to cast content to available device."
+        }
+      },
       "App_Update_Information":
       {
         "is_override" : false,
