@@ -339,7 +339,7 @@
         "initial_cast_message": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
         "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
-        "download_url": "https://raw.githubusercontent.com/EspressifApp/IOT-Espressif-Android-APK/master/IOT-Espressif-Android_1.0.0.apk",
+        "download_url1": "",
         "website_url" : "",
         "is_system_browser":true,
         "filename": "RUTU_CHROMECAST.apk",
