@@ -126,7 +126,7 @@
           }
         },
         "is_banner_ads": true,
-        "is_interstitial_ads": false,
+        "is_interstitial_ads": true,
         "is_stream_player_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
