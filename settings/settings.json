@@ -139,7 +139,7 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 0
+          "visibility_percentage": 100
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
