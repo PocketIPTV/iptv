@@ -96,11 +96,13 @@
             {
               "id" : 1,
               "on_back_close" : true,
+              "is_banner_webview" : true,
               "title" : "Pocket IPTV App",
-              "description" : "Total Entertainment",
+              "description" : "Total Playlist & Website",
               "banner_image" : "https://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Windrder2-web_bd5cb0f721881d106522f6b9cc8f5be6.jpg",
               "logo_image" : "https://brandmark.io/logo-rank/random/bp.png",
               "website_url" : "https://www.google.co.in",
+              "playlist_url" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
               "background_color" : "#666666",
               "text_title_color" : "#ffffff",
               "text_description_color" : "#ffffff"
@@ -108,12 +110,13 @@
             "ads_2" :
             {
               "id" : 2,
-              "on_back_close" : false,
+              "on_back_close" : true,
+              "is_banner_webview" : true,
               "title" : "Live TV App",
-              "description" : "Full Entertainment",
+              "description" : "Only Playlist",
               "banner_image" : "https://cdn.pixabay.com/photo/2015/10/29/14/44/sunset-1012477_960_720.jpg",
               "logo_image" : "https://brandmark.io/logo-rank/random/pepsi.png",
-              "website_url" : "https://www.google.co.in",
+              "playlist_url" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
               "background_color" : "#666666",
               "text_title_color" : "#ffffff",
               "text_description_color" : "#ffffff"
@@ -122,8 +125,9 @@
             {
               "id" : 3,
               "on_back_close" : true,
+              "is_banner_webview" : true,
               "title" : "Mobile TV App",
-              "description" : "Ever Entertainment",
+              "description" : "Ever Website",
               "banner_image" : "https://juegosrev.com/wp-content/uploads/2017/06/Windows-7-Dual-Screen-Wallpapers-Gallery-47-Plus-PIC-WPW402080.jpg",
               "logo_image" : "https://cnet3.cbsistatic.com/img/Yt768C55hXNi2eGSB9qOv-e7SQg=/2011/03/16/c7675aa8-fdba-11e2-8c7c-d4ae52e62bcc/Chrome-logo-2011-03-16.jpg",
               "website_url" : "https://www.google.co.in",
