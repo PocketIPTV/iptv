@@ -96,13 +96,13 @@
             {
               "id" : 1,
               "on_back_close" : true,
-              "is_banner_webview" : true,
+              "is_banner_webview" : false,
               "title" : "Pocket IPTV App",
               "description" : "Total Playlist & Website",
               "banner_image" : "https://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Windrder2-web_bd5cb0f721881d106522f6b9cc8f5be6.jpg",
               "logo_image" : "https://brandmark.io/logo-rank/random/bp.png",
               "website_url" : "https://www.google.co.in",
-              "playlist_url" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
               "background_color" : "#666666",
               "text_title_color" : "#ffffff",
               "text_description_color" : "#ffffff"
@@ -111,12 +111,13 @@
             {
               "id" : 2,
               "on_back_close" : true,
-              "is_banner_webview" : true,
+              "is_banner_webview" : false,
               "title" : "Live TV App",
               "description" : "Only Playlist",
               "banner_image" : "https://cdn.pixabay.com/photo/2015/10/29/14/44/sunset-1012477_960_720.jpg",
               "logo_image" : "https://brandmark.io/logo-rank/random/pepsi.png",
-              "playlist_url" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "website_url" : "https://www.google.co.in",
+              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
               "background_color" : "#666666",
               "text_title_color" : "#ffffff",
               "text_description_color" : "#ffffff"
@@ -125,7 +126,7 @@
             {
               "id" : 3,
               "on_back_close" : true,
-              "is_banner_webview" : true,
+              "is_banner_webview" : false,
               "title" : "Mobile TV App",
               "description" : "Ever Website",
               "banner_image" : "https://juegosrev.com/wp-content/uploads/2017/06/Windows-7-Dual-Screen-Wallpapers-Gallery-47-Plus-PIC-WPW402080.jpg",
