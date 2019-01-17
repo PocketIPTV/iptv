@@ -86,7 +86,7 @@
           "is_debug_mode": false,
           "is_test_mode": false,
           "ads_app_id": "2997115",
-          "banner_ad_unit_id": "banner",
+          "banner_ad_unit_id": "new_banner",
           "interstitial_ad_unit_id": "interstitial",
           "ads_banner_clicks_per_duration_day" : 1,
           "ads_interstitial_clicks_per_duration_day" : 1,
