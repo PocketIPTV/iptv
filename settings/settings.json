@@ -50,8 +50,8 @@
           "ads_banner_clicks_per_duration_day" : 2,
           "ads_interstitial_clicks_per_duration_day" : 1,
           "ads_clicks_duration_day" : 2,
-          "is_banner_safety_layer_one_click_remove":false,
-          "is_interstitial_safety_layer_one_click_remove":false,
+          "is_banner_safety_layer_one_click_remove":true,
+          "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
           "is_ads": true,
           "is_banner_ads": true,
@@ -83,9 +83,9 @@
           "visibility_percentage": 0
         },
         "unity_ads": {
-          "is_debug_mode": true,
-          "is_test_mode": true,
-          "ads_app_id": "2994298",
+          "is_debug_mode": false,
+          "is_test_mode": false,
+          "ads_app_id": "2997115",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
           "ads_banner_clicks_per_duration_day" : 1,
