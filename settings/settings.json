@@ -83,8 +83,8 @@
           "visibility_percentage": 0
         },
         "unity_ads": {
-          "is_debug_mode": false,
-          "is_test_mode": false,
+          "is_debug_mode": true,
+          "is_test_mode": true,
           "ads_app_id1": "2997115",
           "ads_app_id": "2994298",
           "banner_ad_unit_id": "banner",
