@@ -83,8 +83,8 @@
           "visibility_percentage": 0
         },
         "unity_ads": {
-          "is_debug_mode": true,
-          "is_test_mode": true,
+          "is_debug_mode": false,
+          "is_test_mode": false,
           "ads_app_id": "2997115",
           "ads_app_id1": "2994298",
           "banner_ad_unit_id": "banner",
@@ -97,9 +97,9 @@
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
           "is_ads": true,
-          "is_banner_ads": true,
+          "is_banner_ads": false,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 100
         },
