@@ -3,7 +3,7 @@
     "Settings": {
       "Admob_Settings": {
         "is_override" : false,
-        "ads_delay": 1,
+        "ads_delay": 0,
         "ads_on_cancel_delay": 0,
         "banner_ads_reload_count": 3,
         "interstitial_ads_reload_count": 2,
@@ -138,9 +138,9 @@
             }
           }
         },
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "is_stream_player_banner_ads": false,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -271,15 +271,15 @@
       {
         "is_override" : false,
 
-        "is_popup_dialog": true,
-        "is_update_require":true,
+        "is_popup_dialog": false,
+        "is_update_require":false,
 
         "package_id":"com.pocketiptv",
         "download_url":"",
         "website_url":"https://play.google.com/store/apps/details?id=com.pocketiptv",
         "is_system_browser":true,
 
-        "updated_version_code":9,
+        "updated_version_code":10,
 
         "filename":"Pocket_IPTV.apk",
         "title":"App Update",
@@ -423,7 +423,7 @@
       "Rate_App":
       {
         "is_override" : false,
-        "is_rate_app" : true,
+        "is_rate_app" : false,
         "package_id" : "com.pocketiptv",
         "rate_app_url" : "https://play.google.com/store/apps/details?id=com.pocketiptv",
         "rate_message" : "Please Rate us and promote us."
@@ -465,15 +465,15 @@
       "Splash_Screen":
       {
         "is_override" : false,
-        "registration_detail1": "",
-        "registration_detail": "Pocket IPTV® 2018",
-        "version_detail": "version : 9.0"
+        "registration_detail": "",
+        "registration_detail1": "Pocket IPTV® 2018",
+        "version_detail": "version : 10.0"
       },
 
       "Live_Support":
       {
         "is_override" : false,
-        "is_live_support" : true,
+        "is_live_support" : false,
         "fb_messenger_id": "822625707789265",
         "is_system_browser": false,
         "live_support_url": "http://www.pocketiptv.com"
@@ -482,7 +482,7 @@
       "Feedback_Support":
       {
         "is_override" : false,
-        "is_feedback" : true,
+        "is_feedback" : false,
 
         "cc_email_id": "",
         "email_id": "pocketiptv@gmail.com",
