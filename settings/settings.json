@@ -332,7 +332,7 @@
       {
         "is_override" : false,
         "is_start_up_popup" : true,
-        "reminder_code" : "1",
+        "reminder_code" : "2",
         
         "mode": "affiliate",
         "is_system_browser": true,
