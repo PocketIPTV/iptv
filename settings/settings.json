@@ -497,7 +497,7 @@
         "is_live_support" : true,
         "fb_messenger_uri": "fb-messenger://user/",
         "fb_messenger_id": "822625707789265",
-        "is_system_browser": false,
+        "is_system_browser": true,
         "live_support_url": "",
         "banner_url": "https://www.revechat.com/wp-content/uploads/2015/09/24-7-live-chat-support.jpg",
         "website_url": "",
