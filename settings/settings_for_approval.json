@@ -331,7 +331,8 @@
       "Start_Up_Popup":
       {
         "is_override" : false,
-        "is_start_up_popup" : true,
+        "is_start_up_popup" : false,
+        "reminder_code" : "",
 
         "mode": "affiliate",
         "is_system_browser": true,
