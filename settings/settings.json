@@ -495,9 +495,19 @@
       {
         "is_override" : false,
         "is_live_support" : true,
+        "fb_messenger_uri": "fb-messenger://user/",
         "fb_messenger_id": "822625707789265",
         "is_system_browser": false,
-        "live_support_url": ""
+        "live_support_url": "",
+        "banner_url": "https://www.revechat.com/wp-content/uploads/2015/09/24-7-live-chat-support.jpg",
+        "website_url": "",
+        "progress_downloading_message": "Downloading",
+        "progress_install_message": "Installing",
+        "application_package_id": "com.facebook.mlite",
+        "full_title": "Live Support App",
+        "application_download_url": "",
+        "description": "For Live Support,\n\nYou have to install this app after that you will be touch with us",
+        "thumbnail_url": "https://getfblite.com/wp-content/uploads/2017/08/messenger-lite-2.png"
       },
 
       "Feedback_Support":
