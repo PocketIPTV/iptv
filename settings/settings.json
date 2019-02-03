@@ -300,12 +300,12 @@
         "website_url":"https://play.google.com/store/apps/details?id=com.pocketiptv",
         "is_system_browser":true,
 
-        "updated_version_code":10,
+        "updated_version_code":11,
 
         "filename":"Pocket_IPTV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
-        "log_message":"- App Optimized",
+        "log_message":"- Now become more powerfull IPTV Player",
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
@@ -502,7 +502,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Pocket IPTV® 2018",
-        "version_detail": "version : 10.0"
+        "version_detail": "version : 11.0"
       },
 
       "Live_Support":
