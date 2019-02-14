@@ -271,7 +271,7 @@
         "website_url":"https://play.google.com/store/apps/details?id=com.pocketiptv",
         "is_system_browser":true,
 
-        "updated_version_code":11,
+        "updated_version_code":12,
 
         "filename":"Pocket_IPTV.apk",
         "title":"App Update",
@@ -409,8 +409,8 @@
         "playlist_message": "Please contact your IPTV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "",
-        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/World_Channels.rutu"
+        "default_playlist_url1": "",
+        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/IPTV%20List/World_Channels.rutu"
       },
 
       "About_App":
@@ -475,7 +475,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "Pocket IPTV® 2018",
-        "version_detail": "version : 11.0"
+        "version_detail": "version : 12.0"
       },
 
       "Live_Support":
