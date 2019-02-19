@@ -66,8 +66,8 @@
           "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
           "interstitial_ad_unit_id": "ca-app-pub-5004393487171509/1417598032",
           "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
-          "ads_banner_clicks_per_duration_day" : 10,
-          "ads_interstitial_clicks_per_duration_day" : 5,
+          "ads_banner_clicks_per_duration_day" : 2,
+          "ads_interstitial_clicks_per_duration_day" : 1,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
           "is_banner_safety_layer_one_click_remove":false,
@@ -80,7 +80,7 @@
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
           "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
-          "visibility_percentage": 100
+          "visibility_percentage": 50
         },
         "unity_ads": {
           "is_debug_mode": false,
