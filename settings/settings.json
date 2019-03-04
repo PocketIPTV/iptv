@@ -67,7 +67,7 @@
           "interstitial_ad_unit_id": "ca-app-pub-5004393487171509/1417598032",
           "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
           "ads_banner_clicks_per_duration_day" : 2,
-          "ads_interstitial_clicks_per_duration_day" : 1,
+          "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
           "is_banner_safety_layer_one_click_remove":false,
