@@ -1,7 +1,7 @@
 {
   "TV_Data": {
     "Settings": {
-      "Admob_Settings": {
+     "Admob_Settings": {
         "is_override" : false,
         "ads_delay": 1,
         "ads_on_cancel_delay": 0,
@@ -21,6 +21,12 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "appnext_ads": {
@@ -39,35 +45,47 @@
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "default_ads": "facebook_ads",
-        "final_default_ads":"startapp_ads",
+        "final_default_ads":"unity_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
           "interstitial_ad_unit_id": "353151288785830_353152322119060",
           "ads_banner_clicks_per_duration_day" : 8,
           "ads_interstitial_clicks_per_duration_day" : 4,
-          "ads_clicks_duration_day" : 2,
+          "ads_clicks_duration_day" : 1,
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": false,
+          "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 100
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-4304538148086056~5251983681",
-          "banner_ad_unit_id": "ca-app-pub-4304538148086056/2406328491",
+          "ads_app_id": "ca-app-pub-5004393487171509~6685526148",
+          "banner_ad_unit_id": "ca-app-pub-5004393487171509/9283769324",
           "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
-          "interstitial_ad_unit_id": "ca-app-pub-4304538148086056/4649348455",
+          "interstitial_ad_unit_id": "ca-app-pub-5004393487171509/1417598032",
           "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
-          "ads_banner_clicks_per_duration_day" : 1,
-          "ads_interstitial_clicks_per_duration_day" : 1,
+          "ads_banner_clicks_per_duration_day" : 2,
+          "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
           "is_banner_safety_layer_one_click_remove":false,
@@ -78,8 +96,14 @@
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "ca-app-pub-4304538148086056/2406328491",
-          "rewarded_video_ad_unit_id": "ca-app-pub-4304538148086056/4649348455",
+          "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "unity_ads": {
@@ -89,19 +113,25 @@
           "ads_app_id1": "2994298",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
-          "ads_banner_clicks_per_duration_day" : 1,
-          "ads_interstitial_clicks_per_duration_day" : 1,
+          "ads_banner_clicks_per_duration_day" : 10,
+          "ads_interstitial_clicks_per_duration_day" : 10,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": false,
+          "is_ads": false,
+          "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": false,
+          "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "visibility_percentage": 100
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
+          "visibility_percentage": 10
         },
         "custom_ads" :
         {
@@ -110,6 +140,12 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0,
           "ads_list" :
           {
@@ -118,50 +154,25 @@
               "id" : 1,
               "on_back_close" : true,
               "is_banner_webview" : false,
-              "title" : "Pocket IPTV App",
-              "description" : "Total Playlist & Website",
-              "banner_image" : "https://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Windrder2-web_bd5cb0f721881d106522f6b9cc8f5be6.jpg",
-              "logo_image" : "https://brandmark.io/logo-rank/random/bp.png",
-              "website_url" : "https://www.google.co.in",
+              "title" : "Google Pay Earn Money",
+              "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
+              "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
+              "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
+              "website_url" : "https://gplinks.in/IoijtsbK",
               "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
-              "background_color" : "#666666",
-              "text_title_color" : "#ffffff",
-              "text_description_color" : "#ffffff"
-            },
-            "ads_2" :
-            {
-              "id" : 2,
-              "on_back_close" : true,
-              "is_banner_webview" : false,
-              "title" : "Live TV App",
-              "description" : "Only Playlist",
-              "banner_image" : "https://cdn.pixabay.com/photo/2015/10/29/14/44/sunset-1012477_960_720.jpg",
-              "logo_image" : "https://brandmark.io/logo-rank/random/pepsi.png",
-              "website_url" : "https://www.google.co.in",
-              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
-              "background_color" : "#666666",
-              "text_title_color" : "#ffffff",
-              "text_description_color" : "#ffffff"
-            },
-            "ads_3" :
-            {
-              "id" : 3,
-              "on_back_close" : true,
-              "is_banner_webview" : false,
-              "title" : "Mobile TV App",
-              "description" : "Ever Website",
-              "banner_image" : "https://juegosrev.com/wp-content/uploads/2017/06/Windows-7-Dual-Screen-Wallpapers-Gallery-47-Plus-PIC-WPW402080.jpg",
-              "logo_image" : "https://cnet3.cbsistatic.com/img/Yt768C55hXNi2eGSB9qOv-e7SQg=/2011/03/16/c7675aa8-fdba-11e2-8c7c-d4ae52e62bcc/Chrome-logo-2011-03-16.jpg",
-              "website_url" : "https://www.google.co.in",
-              "background_color" : "#666666",
-              "text_title_color" : "#ffffff",
-              "text_description_color" : "#ffffff"
+              "background_color" : "#ffffff",
+              "text_title_color" : "#666666",
+              "text_description_color" : "#666666"
             }
           }
         },
         "is_banner_ads": false,
         "is_interstitial_ads": false,
         "is_stream_player_banner_ads": false,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": false,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": false,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -177,16 +188,28 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 0
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
           "ads_app_id": "211764508",
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
+          
+          "is_illegal_interstitial_ads": true,
+          "is_legal_interstitial_ads": true,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
+
           "visibility_percentage": 5
         }
       },
