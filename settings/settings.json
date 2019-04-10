@@ -4,9 +4,9 @@
       "Admob_Settings": {
         "is_override" : false,
         "legal_ads_delay": 2,
-        "illegal_ads_delay": 2,
+        "illegal_ads_delay": 10,
         "legal_ads_on_cancel_delay": 2,
-        "illegal_ads_on_cancel_delay": 2,
+        "illegal_ads_on_cancel_delay": 10,
         "banner_ads_reload_count": 1,
         "interstitial_ads_reload_count": 1,
         "ads_loading_text": "Ads will loading...",
