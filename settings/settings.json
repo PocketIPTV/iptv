@@ -605,6 +605,8 @@
       {
         "is_override" : false,
 
+        "planet_url": "http://app.liveplanettv.com/",
+        
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
         "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
         "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
