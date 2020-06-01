@@ -209,10 +209,10 @@
           
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
-          "is_legal_banner_ads": false,
+          "is_illegal_banner_ads": true,
+          "is_legal_banner_ads": true,
 
-          "visibility_percentage": 10
+          "visibility_percentage": 5
         }
       },
       "App_Guide_Data":
