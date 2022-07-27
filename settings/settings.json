@@ -82,9 +82,9 @@
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-5004393487171509~6685526148",
-          "banner_ad_unit_id": "ca-app-pub-5145013087565459/8831765766",
+          "banner_ad_unit_id": "/21798997504/ace_app_bitcoding_com.pocketiptv_banner",
           "banner_ad_unit_id1": "ca-app-pub-1148206974547742/4250239534",
-          "interstitial_ad_unit_id": "ca-app-pub-5145013087565459/2813970567",
+          "interstitial_ad_unit_id": "/21798997504/ace_app_bitcoding_com.pocketiptv_interestitial",
           "interstitial_ad_unit_id1": "ca-app-pub-1148206974547742/5371749512",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
@@ -98,8 +98,8 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "/22675585931/Pocket_IPTV_10.8_open",
-          "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          "native_ad_unit_id": "/21798997504/ace_app_bitcoding_com.pocketiptv_native",
+          "rewarded_video_ad_unit_id": "/21798997504/ace_app_bitcoding_com.pocketiptv_interestitial",
           
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
