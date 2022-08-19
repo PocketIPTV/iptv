@@ -43,7 +43,7 @@
           "is_permanent_safety_layer": false,
           "is_ads": false,
           "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
