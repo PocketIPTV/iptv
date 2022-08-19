@@ -69,7 +69,7 @@
           "is_permanent_safety_layer": false,
           "is_ads": true,
           "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
           
@@ -95,7 +95,7 @@
           "is_permanent_safety_layer": false,
           "is_ads": true,
           "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "/21798997504/ace_app_bitcoding_com.pocketiptv_native",
