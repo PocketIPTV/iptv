@@ -100,7 +100,6 @@
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "/22387492205,22499930938/com.pocketiptv.Native0.1667213720",
           "rewarded_video_ad_unit_id": "/22387492205,22499930938/com.pocketiptv.Rewarded0.1667213737",
-          
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
